@@ -34,3 +34,6 @@ TestResults/
 
 # Postgres
 *.pgdump
+
+# Project Master Plan
+plan.md
