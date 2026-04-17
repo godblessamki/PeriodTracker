@@ -23,3 +23,9 @@ A companion app designed to connect couples by allowing the female partner to sh
 *(Instructions will be added as implementation phases progress)*
 
 Please see [`plan.md`](./plan.md) for the detailed Project Master Plan.
+
+## Acknowledgments
+Built with ❤️ alongside my friend [@adamstefanik](https://github.com/adamstefanik).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
