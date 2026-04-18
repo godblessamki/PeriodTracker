@@ -1,0 +1,5 @@
+{
+  "appHost": {
+    "path": "PeriodTracker.Backend.AppHost/PeriodTracker.Backend.AppHost.csproj"
+  }
+}
